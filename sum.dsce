@@ -1,0 +1,6 @@
+PRINT "Enter number 1"
+INPUT a
+PRINT "Enter number 2"
+INPUT b
+PRINT "Sum of 2 numbers is"
+PRINT a+b

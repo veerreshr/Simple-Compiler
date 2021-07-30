@@ -1,0 +1,11 @@
+#program to find sum of first n numbers of given input n
+LET sum=0
+PRINT "Enter the number"
+INPUT num
+LET i=0
+WHILE i<= num REPEAT
+    LET sum=sum+i
+    LET i=i+1
+ENDWHILE
+PRINT "Sum of first n numbers of given input is"
+PRINT sum
